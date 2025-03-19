@@ -13,6 +13,10 @@ import (
 // go run .
 //
 // Is not possible to run from vs-code (ctlr-F5)
+//
+// or is possible to start vs-code from "learn_import"
+// cd learn_import
+// code .
 func main() {
 	fmt.Print("Hello ")
 	fmt.Println(AGlobalVariableFromAnotherFile)
